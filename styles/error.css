@@ -1,0 +1,25 @@
+.error {
+  position: absolute;
+  width: 711px;
+  height: 395px;
+
+  inset: 78px 0 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #545050;
+  
+}
+/* скролл не скрывается почему то */
+
+.error-template {
+  display: none;
+}
+
+.error__title {
+  color: #fff;
+  font-family: Oswald, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
