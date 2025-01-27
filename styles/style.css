@@ -124,7 +124,7 @@ img {
 }
 
 .content__list {
-  overflow-y: scroll;
+  overflow-y: auto;
   height: 54.3%;
   /*Высота как можно было еще поступить в данной ситуации ? 100% не работает а если высоту не указать то скролл не работает */
   padding-right: 3px;
